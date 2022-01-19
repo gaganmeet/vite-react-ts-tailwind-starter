@@ -8,7 +8,7 @@
     "serve": "vite preview --port 3000",
     "eject": "react-scripts eject",
     "postinstall": "husky install",
-    "lint": "prettier --write '**/*.{js,jsx,ts,tsx}'"
+    "lint": "prettier --write **/*.{tsx,jsx,js,ts}"
   },
   "dependencies": {
     "react": "^17.0.2",
